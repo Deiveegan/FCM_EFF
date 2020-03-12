@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 
 --
 -- Table structure for table `registration`
--- this is dummy data provided for demo
+-- this is dummy data provided for demo modified on friday
 
 CREATE TABLE `registration` (
   `id` int(11) NOT NULL,
