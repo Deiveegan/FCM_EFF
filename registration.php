@@ -1,6 +1,6 @@
 <html>
 
-<head>
+<head><!-- comment added by deivegan for demo -->
     <title>
         Enquiry Form
     </title>
